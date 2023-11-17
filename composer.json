@@ -1,0 +1,16 @@
+{
+    "name": "admin/project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {},
+    "authors": [
+        {
+            "name": "Nome do autor",
+            "email": "email@exemplo.com"
+        }
+    ]
+}                                                                                                                                                                                                                                                                                                                   
